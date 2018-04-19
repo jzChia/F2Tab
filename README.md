@@ -6,6 +6,8 @@ csv、json、mongo、mysql转tab工具
 > mongo数据库的连接字符串格式为：mongodb://user:pwd@localhost:27017/database~collection
 > mysql数据库连接字符串为：user:pwd/host:port/db:table
 
+![image](https://github.com/jzChia/F2Tab/blob/master/f2t.jpg)
+
 ------------------------------
 
 ### 注意事项
