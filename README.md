@@ -1,5 +1,5 @@
 # F2Tab
-csv、json、mongo、mysql转tab工具
+csv、json、mongo、mysql转MapInfo *.tab工具
 
 > 所有数据都必须有一列为空间几何字段，文本类型支持wkt和geojson，mysql支持geometry类型
 > csv文件第一行必须为列名，同时有一列为geometry字段，支持wkt和geojson
