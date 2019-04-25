@@ -16,3 +16,29 @@ csv、json、mongo、mysql,oracle转MapInfo *.tab，Esri shp工具
 > 左侧必须选择空间几何字段，同时必须指定类型
 > 可以指定tab字段别名
 > 导出格式为shp时字段长度超过10个字符会被截断
+
+
+### 使用的python库
+```
+from Tkinter import *
+import tkMessageBox as messageBox
+import tkFileDialog as fileDialog
+import ScrolledText as sct
+import ttk
+import osgeo
+import osgeo.ogr as ogr
+import osgeo.osr as osr
+import os
+import sys
+import datetime
+import pymongo
+import pymysql
+import chardet
+import codecs
+import csv
+import json
+import base64
+import cx_Oracle
+import threading
+import time
+```
